@@ -1,5 +1,5 @@
-[![Build Status](https://app.travis-ci.com/SUSTechEllison/travis-ci-tutorial-java.svg?branch=master)](https://app.travis-ci.com/SUSTechEllison/travis-ci-tutorial-java)
-[![Code Coverage](https://codecov.io/github/SUSTechEllison/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/SUSTechEllison/travis-ci-tutorial-java)
+[![Build Status](https://app.travis-ci.com/SSTechEllison/travis-ci-tutorial-java.svg?branch=master)](https://app.travis-ci.com/SSTechEllison/travis-ci-tutorial-java)
+[![Code Coverage](https://codecov.io/github/SSTechEllison/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/SSTechEllison/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
